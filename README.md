@@ -1,1 +1,1 @@
-# PowerBI-prcticing-journey
+# PowerBI-practicing-journey
